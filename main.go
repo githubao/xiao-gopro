@@ -8,7 +8,7 @@ import "github.com/githubao/xiao-gopro/ch01"
 func RunCode() {
 
 	if true {
-		ch01.Echo01()
+		ch01.Lissajous()
 	}
 }
 
