@@ -1,4 +1,4 @@
-// dup1
+// stdin读取输入
 // author: baoqiang
 // time: 2019/2/10 下午9:19
 package ch01

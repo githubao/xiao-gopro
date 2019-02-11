@@ -15,7 +15,11 @@ func TestRun01(t *testing.T) {
 		//Dup01()
 		//Dup02()
 		//Dup03()
-		Lissajous()
+		//Lissajous()
+		//Fetch()
+		//FetchAll()
+		//Server1()
+		Server2()
 	}
 
 	if false {

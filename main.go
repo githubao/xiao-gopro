@@ -8,10 +8,10 @@ import "github.com/githubao/xiao-gopro/ch01"
 func RunCode() {
 
 	if true {
-		ch01.Lissajous()
+		ch01.Server3()
 	}
 }
 
-func main(){
+func main() {
 	RunCode()
 }

@@ -1,4 +1,4 @@
-// dup3
+// ioutil直接读取数据
 // author: baoqiang
 // time: 2019/2/10 下午9:47
 package ch01
