@@ -8,22 +8,23 @@ import "testing"
 func TestRun01(t *testing.T) {
 
 	if true {
-		//HelloWorld()
-		//Echo01()
-		//Echo02()
-		//Echo03()
-		//Dup01()
-		//Dup02()
-		//Dup03()
-		//Lissajous()
-		//Fetch()
-		//FetchAll()
-		//Server1()
-		Server2()
+		//pass
 	}
 
 	if false {
-
+		HelloWorld()
+		Echo01()
+		Echo02()
+		Echo03()
+		Dup01()
+		Dup02()
+		Dup03()
+		Lissajous()
+		Fetch()
+		FetchAll()
+		Server1()
+		Server2()
+		Server3()
 	}
 
 }

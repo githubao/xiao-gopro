@@ -3,12 +3,14 @@
 // time: 2019/2/10 下午8:51
 package main
 
-import "github.com/githubao/xiao-gopro/ch01"
+import (
+	"github.com/githubao/xiao-gopro/ch02/tempconv"
+)
 
 func RunCode() {
 
 	if true {
-		ch01.Server3()
+		tempconv.TempconvGo()
 	}
 }
 
