@@ -8,8 +8,17 @@ import (
 	"fmt"
 	"strconv"
 	"github.com/githubao/xiao-gopro/ch02/tempconv"
-	"github.com/githubao/xiao-gopro/ch03"
+	"github.com/githubao/xiao-gopro/ch04"
 )
+
+func main() {
+	//RunCode()
+	//RunMath()
+	//ch03.RunBasename2()
+	//ch03.RunComma()
+	//ch04.Dedup()
+	ch04.CountChar()
+}
 
 func RunMath() {
 	var max uint64 = math.MaxUint64
@@ -29,7 +38,7 @@ func RunMath() {
 	// 2147483647
 	//-2147483648
 	//-2147483644
-	var max2 = int32(limit+1)
+	var max2 = int32(limit + 1)
 
 	fmt.Println(limit)
 	fmt.Println(max2)
@@ -40,11 +49,4 @@ func RunCode() {
 	if true {
 		tempconv.TempconvGo()
 	}
-}
-
-func main() {
-	//RunCode()
-	//RunMath()
-	//ch03.RunBasename2()
-	ch03.RunComma()
 }
