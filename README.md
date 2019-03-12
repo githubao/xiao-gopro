@@ -15,10 +15,14 @@
 |%T|变量的类型|
 |%%|字面上的百分号标志(无操作数)|
 
-2. go内置函数
+1. go内置函数
 
 |1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|
 |append|close|delete|panic|recover|imag|real||
 |make|new|cap|copy|len|complex|print|println|
 
+1. <Go程序设计语言>
+入门，程序结构，简单数据类型，复杂数据类型，函数
+方法，接口，协程和管道，并发，包和工具
+测试，反射，底层编程

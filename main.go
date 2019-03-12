@@ -4,11 +4,12 @@
 package main
 
 import (
-	"math"
 	"fmt"
+	"math"
 	"strconv"
+
 	"github.com/githubao/xiao-gopro/ch02/tempconv"
-	"github.com/githubao/xiao-gopro/ch04"
+	"github.com/githubao/xiao-gopro/ch05"
 )
 
 func main() {
@@ -17,7 +18,13 @@ func main() {
 	//ch03.RunBasename2()
 	//ch03.RunComma()
 	//ch04.Dedup()
-	ch04.CountChar()
+	//ch04.CountChar()
+	//ch05.RunVisit()
+	//ch05.RunOutline()
+	//ch05.RunVisit2()
+	//ch05.RunWaitfor()
+	//ch05.RunOutline2()
+	ch05.RunCrawl()
 }
 
 func RunMath() {
