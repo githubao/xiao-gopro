@@ -11,7 +11,10 @@ func TestRun05(t *testing.T) {
 		//RunVisit()
 		//RunSquares()
 		//RunToposort()
-		RunSum()
+		//RunSum()
+		//RunTimeDefer()
+		//RunDefer()
+		RunRecover()
 	}
 
 	if false {

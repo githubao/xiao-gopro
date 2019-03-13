@@ -24,7 +24,11 @@ func main() {
 	//ch05.RunVisit2()
 	//ch05.RunWaitfor()
 	//ch05.RunOutline2()
-	ch05.RunCrawl()
+	//ch05.RunCrawl()
+	//ch05.RunTitle()
+	//ch05.RunTitle2()
+	//ch05.RunFetch()
+	ch05.RunTitle3()
 }
 
 func RunMath() {
