@@ -52,7 +52,7 @@ func corner(i, j int) (float64, float64) {
 	z := f(x, y)
 
 	sx := width/2 + (x-y)*cos30*xyscale
-	sy := height/2 + (x-y)*sin30*xyscale - z*zscale
+	sy := height/2 + (x+y)*sin30*xyscale - z*zscale
 
 	return sx, sy
 }

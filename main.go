@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"github.com/githubao/xiao-gopro/ch02/tempconv"
-	"github.com/githubao/xiao-gopro/ch05"
+	"github.com/githubao/xiao-gopro/ch07"
 )
 
 func main() {
@@ -28,7 +28,10 @@ func main() {
 	//ch05.RunTitle()
 	//ch05.RunTitle2()
 	//ch05.RunFetch()
-	ch05.RunTitle3()
+	//ch05.RunTitle3()
+	//ch07.RunCelsiusFlag()
+	//ch07.RunSleep()
+	ch07.RunSurface()
 }
 
 func RunMath() {
