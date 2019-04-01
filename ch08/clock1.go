@@ -4,9 +4,9 @@
 package ch08
 
 import (
-	"net"
-	"github.com/labstack/gommon/log"
 	"io"
+	"log"
+	"net"
 	"time"
 )
 

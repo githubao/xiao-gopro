@@ -5,11 +5,11 @@ package main
 
 import (
 	"fmt"
+	"github.com/githubao/xiao-gopro/ch08"
 	"math"
 	"strconv"
 
 	"github.com/githubao/xiao-gopro/ch02/tempconv"
-	"github.com/githubao/xiao-gopro/ch08"
 )
 
 func main() {
@@ -33,7 +33,8 @@ func main() {
 	//ch07.RunSleep()
 	//ch07.RunSurface()
 	//ch08.RunSpinner()
-	ch08.RunClient2()
+	//ch08.RunClient2()
+	ch08.RunCrawl3()
 }
 
 func RunMath() {

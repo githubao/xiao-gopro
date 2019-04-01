@@ -11,7 +11,8 @@ func TestRun08(t *testing.T) {
 		//RunSpinner()
 		//go RunClient1()
 		//RunServer1()
-		RunServer3()
+		//RunServer3()
+		RunPipeline3()
 	}
 
 	if false {
