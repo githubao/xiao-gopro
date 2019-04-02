@@ -34,7 +34,12 @@ func main() {
 	//ch07.RunSurface()
 	//ch08.RunSpinner()
 	//ch08.RunClient2()
-	ch08.RunCrawl3()
+	//ch08.RunCrawl3()
+	//ch08.Countdown3()
+	//ch08.Du2()
+	//ch08.Du3()
+	//ch08.Du4()
+	ch08.RunChat()
 }
 
 func RunMath() {

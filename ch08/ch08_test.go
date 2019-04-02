@@ -12,7 +12,11 @@ func TestRun08(t *testing.T) {
 		//go RunClient1()
 		//RunServer1()
 		//RunServer3()
-		RunPipeline3()
+		//RunPipeline3()
+		//Countdown1()
+		//Countdown2()
+		//Du1()
+		RunClient3()
 	}
 
 	if false {
