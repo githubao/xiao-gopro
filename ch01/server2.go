@@ -4,10 +4,10 @@
 package ch01
 
 import (
-	"net/http"
-	"code.byted.org/gopkg/pkg/log"
-	"sync"
 	"fmt"
+	"log"
+	"net/http"
+	"sync"
 )
 
 var mu sync.Mutex

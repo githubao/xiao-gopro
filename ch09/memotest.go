@@ -4,9 +4,9 @@
 package ch09
 
 import (
-	"code.byted.org/gopkg/pkg/log"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"sync"
 	"time"

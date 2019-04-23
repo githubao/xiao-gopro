@@ -4,9 +4,8 @@
 package ch05
 
 import (
+	"log"
 	"time"
-
-	"code.byted.org/gopkg/pkg/log"
 )
 
 func RunTimeDefer() {

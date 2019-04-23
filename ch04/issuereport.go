@@ -4,10 +4,10 @@
 package ch04
 
 import (
-	"time"
-	"os"
+	"html/template"
 	"log"
-	"code.byted.org/gopkg/htmlutil/gosrc/template"
+	"os"
+	"time"
 )
 
 const templ = `{{.TotalCount}} Issues:
